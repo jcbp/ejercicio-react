@@ -1,0 +1,11 @@
+.btn {
+  color: #fff;
+  height: 58px;
+  border: none;
+  cursor: pointer;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  text-transform: uppercase;
+  text-align: center;
+  outline: none;
+}
