@@ -1,0 +1,12 @@
+.form-input {
+  max-width: 142px;
+  color: #fff;
+  border: 1px solid #ffffffb0;
+  height: 33px;
+  font-family: 'Montserrat';
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-align: center;
+  background-color: transparent;
+  outline: none;
+}
