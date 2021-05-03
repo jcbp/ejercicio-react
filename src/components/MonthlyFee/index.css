@@ -1,0 +1,8 @@
+.monthly-fee {
+  padding: 0 1.6rem;
+  height: 64px;
+  box-sizing: border-box;
+}
+.monthly-fee label {
+  font-size: 1.1rem;
+}
