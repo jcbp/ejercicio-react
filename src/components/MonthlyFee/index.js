@@ -7,11 +7,7 @@ const MonthlyFee = ({totalMoney, installments}) => {
     <div className="monthly-fee row v-center bg-secondary text-bold">
       <label>Cuota fija por mes</label>
       <div className="big-text">
-        {formatCurrency(
-          Math.abs(totalMoney / installments),
-          ',',
-          2
-        )}
+        {formatCurrency(totalMoney / installments, ',', 2)}
       </div>
     </div>
   )
